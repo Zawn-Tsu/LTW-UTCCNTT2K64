@@ -1,0 +1,77 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ki 5\\LTW-UTCCNTT2K64\\LTW_Day07Lab\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E8A528D7-13D9-406A-A210-E43DDA486CF0}|LTW_Day07_TH\\LTW_Day07_TH.csproj|d:\\ki 5\\ltw-utccntt2k64\\ltw_day07lab\\ltw_day07_th\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E8A528D7-13D9-406A-A210-E43DDA486CF0}|LTW_Day07_TH\\LTW_Day07_TH.csproj|solutionrelative:ltw_day07_th\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8A528D7-13D9-406A-A210-E43DDA486CF0}|LTW_Day07_TH\\LTW_Day07_TH.csproj|d:\\ki 5\\ltw-utccntt2k64\\ltw_day07lab\\ltw_day07_th\\controllers\\quantriscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8A528D7-13D9-406A-A210-E43DDA486CF0}|LTW_Day07_TH\\LTW_Day07_TH.csproj|solutionrelative:ltw_day07_th\\controllers\\quantriscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8A528D7-13D9-406A-A210-E43DDA486CF0}|LTW_Day07_TH\\LTW_Day07_TH.csproj|d:\\ki 5\\ltw-utccntt2k64\\ltw_day07lab\\ltw_day07_th\\models\\k64cnt2dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8A528D7-13D9-406A-A210-E43DDA486CF0}|LTW_Day07_TH\\LTW_Day07_TH.csproj|solutionrelative:ltw_day07_th\\models\\k64cnt2dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\ki 5\\LTW-UTCCNTT2K64\\LTW_Day07Lab\\LTW_Day07_TH\\appsettings.json",
+              "RelativeDocumentMoniker": "LTW_Day07_TH\\appsettings.json",
+              "ToolTip": "D:\\ki 5\\LTW-UTCCNTT2K64\\LTW_Day07Lab\\LTW_Day07_TH\\appsettings.json",
+              "RelativeToolTip": "LTW_Day07_TH\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-09T16:20:47.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "QuanTrisController.cs",
+              "DocumentMoniker": "D:\\ki 5\\LTW-UTCCNTT2K64\\LTW_Day07Lab\\LTW_Day07_TH\\Controllers\\QuanTrisController.cs",
+              "RelativeDocumentMoniker": "LTW_Day07_TH\\Controllers\\QuanTrisController.cs",
+              "ToolTip": "D:\\ki 5\\LTW-UTCCNTT2K64\\LTW_Day07Lab\\LTW_Day07_TH\\Controllers\\QuanTrisController.cs",
+              "RelativeToolTip": "LTW_Day07_TH\\Controllers\\QuanTrisController.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAkwAYAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T15:12:42.37Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "K64cnt2dbContext.cs",
+              "DocumentMoniker": "D:\\ki 5\\LTW-UTCCNTT2K64\\LTW_Day07Lab\\LTW_Day07_TH\\Models\\K64cnt2dbContext.cs",
+              "RelativeDocumentMoniker": "LTW_Day07_TH\\Models\\K64cnt2dbContext.cs",
+              "ToolTip": "D:\\ki 5\\LTW-UTCCNTT2K64\\LTW_Day07Lab\\LTW_Day07_TH\\Models\\K64cnt2dbContext.cs",
+              "RelativeToolTip": "LTW_Day07_TH\\Models\\K64cnt2dbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T15:04:11.954Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

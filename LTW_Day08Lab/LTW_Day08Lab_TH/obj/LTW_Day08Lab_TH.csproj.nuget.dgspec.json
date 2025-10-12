@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\ki 5\\LTW\\K64-Ki5-lap-trinh-web-main\\K64-Ki5-lap-trinh-web-main\\LTW_Day08Lab\\LTW_Day08Lab_TH\\LTW_Day08Lab_TH.csproj": {}
+    "D:\\ki 5\\LTW-UTCCNTT2K64\\LTW_Day08Lab\\LTW_Day08Lab_TH\\LTW_Day08Lab_TH.csproj": {}
   },
   "projects": {
-    "D:\\ki 5\\LTW\\K64-Ki5-lap-trinh-web-main\\K64-Ki5-lap-trinh-web-main\\LTW_Day08Lab\\LTW_Day08Lab_StudentManager\\LTW_Day08Lab_StudentManager.csproj": {
+    "D:\\ki 5\\LTW-UTCCNTT2K64\\LTW_Day08Lab\\LTW_Day08Lab_StudentManager\\LTW_Day08Lab_StudentManager.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\ki 5\\LTW\\K64-Ki5-lap-trinh-web-main\\K64-Ki5-lap-trinh-web-main\\LTW_Day08Lab\\LTW_Day08Lab_StudentManager\\LTW_Day08Lab_StudentManager.csproj",
+        "projectUniqueName": "D:\\ki 5\\LTW-UTCCNTT2K64\\LTW_Day08Lab\\LTW_Day08Lab_StudentManager\\LTW_Day08Lab_StudentManager.csproj",
         "projectName": "LTW_Day08Lab_StudentManager",
-        "projectPath": "D:\\ki 5\\LTW\\K64-Ki5-lap-trinh-web-main\\K64-Ki5-lap-trinh-web-main\\LTW_Day08Lab\\LTW_Day08Lab_StudentManager\\LTW_Day08Lab_StudentManager.csproj",
+        "projectPath": "D:\\ki 5\\LTW-UTCCNTT2K64\\LTW_Day08Lab\\LTW_Day08Lab_StudentManager\\LTW_Day08Lab_StudentManager.csproj",
         "packagesPath": "C:\\Users\\nguye\\.nuget\\packages\\",
-        "outputPath": "D:\\ki 5\\LTW\\K64-Ki5-lap-trinh-web-main\\K64-Ki5-lap-trinh-web-main\\LTW_Day08Lab\\LTW_Day08Lab_StudentManager\\obj\\",
+        "outputPath": "D:\\ki 5\\LTW-UTCCNTT2K64\\LTW_Day08Lab\\LTW_Day08Lab_StudentManager\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -98,14 +98,14 @@
         }
       }
     },
-    "D:\\ki 5\\LTW\\K64-Ki5-lap-trinh-web-main\\K64-Ki5-lap-trinh-web-main\\LTW_Day08Lab\\LTW_Day08Lab_TH\\LTW_Day08Lab_TH.csproj": {
+    "D:\\ki 5\\LTW-UTCCNTT2K64\\LTW_Day08Lab\\LTW_Day08Lab_TH\\LTW_Day08Lab_TH.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\ki 5\\LTW\\K64-Ki5-lap-trinh-web-main\\K64-Ki5-lap-trinh-web-main\\LTW_Day08Lab\\LTW_Day08Lab_TH\\LTW_Day08Lab_TH.csproj",
+        "projectUniqueName": "D:\\ki 5\\LTW-UTCCNTT2K64\\LTW_Day08Lab\\LTW_Day08Lab_TH\\LTW_Day08Lab_TH.csproj",
         "projectName": "LTW_Day08Lab_TH",
-        "projectPath": "D:\\ki 5\\LTW\\K64-Ki5-lap-trinh-web-main\\K64-Ki5-lap-trinh-web-main\\LTW_Day08Lab\\LTW_Day08Lab_TH\\LTW_Day08Lab_TH.csproj",
+        "projectPath": "D:\\ki 5\\LTW-UTCCNTT2K64\\LTW_Day08Lab\\LTW_Day08Lab_TH\\LTW_Day08Lab_TH.csproj",
         "packagesPath": "C:\\Users\\nguye\\.nuget\\packages\\",
-        "outputPath": "D:\\ki 5\\LTW\\K64-Ki5-lap-trinh-web-main\\K64-Ki5-lap-trinh-web-main\\LTW_Day08Lab\\LTW_Day08Lab_TH\\obj\\",
+        "outputPath": "D:\\ki 5\\LTW-UTCCNTT2K64\\LTW_Day08Lab\\LTW_Day08Lab_TH\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -126,8 +126,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\ki 5\\LTW\\K64-Ki5-lap-trinh-web-main\\K64-Ki5-lap-trinh-web-main\\LTW_Day08Lab\\LTW_Day08Lab_StudentManager\\LTW_Day08Lab_StudentManager.csproj": {
-                "projectPath": "D:\\ki 5\\LTW\\K64-Ki5-lap-trinh-web-main\\K64-Ki5-lap-trinh-web-main\\LTW_Day08Lab\\LTW_Day08Lab_StudentManager\\LTW_Day08Lab_StudentManager.csproj"
+              "D:\\ki 5\\LTW-UTCCNTT2K64\\LTW_Day08Lab\\LTW_Day08Lab_StudentManager\\LTW_Day08Lab_StudentManager.csproj": {
+                "projectPath": "D:\\ki 5\\LTW-UTCCNTT2K64\\LTW_Day08Lab\\LTW_Day08Lab_StudentManager\\LTW_Day08Lab_StudentManager.csproj"
               }
             }
           }

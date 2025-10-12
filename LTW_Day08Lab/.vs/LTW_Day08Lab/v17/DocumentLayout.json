@@ -1,29 +1,29 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\ki 5\\LTW\\K64-Ki5-lap-trinh-web-main\\K64-Ki5-lap-trinh-web-main\\LTW_Day08Lab\\",
+  "WorkspaceRootPath": "D:\\ki 5\\LTW-UTCCNTT2K64\\LTW_Day08Lab\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AB11CD6C-C10E-4BAE-A6D5-68987DE3B516}|LTW_Day08Lab_TH\\LTW_Day08Lab_TH.csproj|d:\\ki 5\\ltw\\k64-ki5-lap-trinh-web-main\\k64-ki5-lap-trinh-web-main\\ltw_day08lab\\ltw_day08lab_th\\ltw_day08lab_th.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{AB11CD6C-C10E-4BAE-A6D5-68987DE3B516}|LTW_Day08Lab_TH\\LTW_Day08Lab_TH.csproj|solutionrelative:ltw_day08lab_th\\ltw_day08lab_th.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AB11CD6C-C10E-4BAE-A6D5-68987DE3B516}|LTW_Day08Lab_TH\\LTW_Day08Lab_TH.csproj|d:\\ki 5\\ltw\\k64-ki5-lap-trinh-web-main\\k64-ki5-lap-trinh-web-main\\ltw_day08lab\\ltw_day08lab_th\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{AB11CD6C-C10E-4BAE-A6D5-68987DE3B516}|LTW_Day08Lab_TH\\LTW_Day08Lab_TH.csproj|d:\\ki 5\\ltw-utccntt2k64\\ltw_day08lab\\ltw_day08lab_th\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{AB11CD6C-C10E-4BAE-A6D5-68987DE3B516}|LTW_Day08Lab_TH\\LTW_Day08Lab_TH.csproj|solutionrelative:ltw_day08lab_th\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D6057CCD-CD55-4A16-9BA6-8F82D9B73BA1}|LTW_Day08Lab_StudentManager\\LTW_Day08Lab_StudentManager.csproj|d:\\ki 5\\ltw\\k64-ki5-lap-trinh-web-main\\k64-ki5-lap-trinh-web-main\\ltw_day08lab\\ltw_day08lab_studentmanager\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{AB11CD6C-C10E-4BAE-A6D5-68987DE3B516}|LTW_Day08Lab_TH\\LTW_Day08Lab_TH.csproj|d:\\ki 5\\ltw-utccntt2k64\\ltw_day08lab\\ltw_day08lab_th\\ltw_day08lab_th.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{AB11CD6C-C10E-4BAE-A6D5-68987DE3B516}|LTW_Day08Lab_TH\\LTW_Day08Lab_TH.csproj|solutionrelative:ltw_day08lab_th\\ltw_day08lab_th.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6057CCD-CD55-4A16-9BA6-8F82D9B73BA1}|LTW_Day08Lab_StudentManager\\LTW_Day08Lab_StudentManager.csproj|d:\\ki 5\\ltw-utccntt2k64\\ltw_day08lab\\ltw_day08lab_studentmanager\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{D6057CCD-CD55-4A16-9BA6-8F82D9B73BA1}|LTW_Day08Lab_StudentManager\\LTW_Day08Lab_StudentManager.csproj|solutionrelative:ltw_day08lab_studentmanager\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D6057CCD-CD55-4A16-9BA6-8F82D9B73BA1}|LTW_Day08Lab_StudentManager\\LTW_Day08Lab_StudentManager.csproj|d:\\ki 5\\ltw\\k64-ki5-lap-trinh-web-main\\k64-ki5-lap-trinh-web-main\\ltw_day08lab\\ltw_day08lab_studentmanager\\models\\marks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D6057CCD-CD55-4A16-9BA6-8F82D9B73BA1}|LTW_Day08Lab_StudentManager\\LTW_Day08Lab_StudentManager.csproj|d:\\ki 5\\ltw-utccntt2k64\\ltw_day08lab\\ltw_day08lab_studentmanager\\models\\marks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D6057CCD-CD55-4A16-9BA6-8F82D9B73BA1}|LTW_Day08Lab_StudentManager\\LTW_Day08Lab_StudentManager.csproj|solutionrelative:ltw_day08lab_studentmanager\\models\\marks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D6057CCD-CD55-4A16-9BA6-8F82D9B73BA1}|LTW_Day08Lab_StudentManager\\LTW_Day08Lab_StudentManager.csproj|d:\\ki 5\\ltw\\k64-ki5-lap-trinh-web-main\\k64-ki5-lap-trinh-web-main\\ltw_day08lab\\ltw_day08lab_studentmanager\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D6057CCD-CD55-4A16-9BA6-8F82D9B73BA1}|LTW_Day08Lab_StudentManager\\LTW_Day08Lab_StudentManager.csproj|d:\\ki 5\\ltw-utccntt2k64\\ltw_day08lab\\ltw_day08lab_studentmanager\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D6057CCD-CD55-4A16-9BA6-8F82D9B73BA1}|LTW_Day08Lab_StudentManager\\LTW_Day08Lab_StudentManager.csproj|solutionrelative:ltw_day08lab_studentmanager\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D6057CCD-CD55-4A16-9BA6-8F82D9B73BA1}|LTW_Day08Lab_StudentManager\\LTW_Day08Lab_StudentManager.csproj|d:\\ki 5\\ltw\\k64-ki5-lap-trinh-web-main\\k64-ki5-lap-trinh-web-main\\ltw_day08lab\\ltw_day08lab_studentmanager\\models\\subjects.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D6057CCD-CD55-4A16-9BA6-8F82D9B73BA1}|LTW_Day08Lab_StudentManager\\LTW_Day08Lab_StudentManager.csproj|d:\\ki 5\\ltw-utccntt2k64\\ltw_day08lab\\ltw_day08lab_studentmanager\\models\\subjects.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D6057CCD-CD55-4A16-9BA6-8F82D9B73BA1}|LTW_Day08Lab_StudentManager\\LTW_Day08Lab_StudentManager.csproj|solutionrelative:ltw_day08lab_studentmanager\\models\\subjects.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -34,21 +34,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "LTW_Day08Lab_TH",
-              "DocumentMoniker": "D:\\ki 5\\LTW\\K64-Ki5-lap-trinh-web-main\\K64-Ki5-lap-trinh-web-main\\LTW_Day08Lab\\LTW_Day08Lab_TH\\LTW_Day08Lab_TH.csproj",
-              "RelativeDocumentMoniker": "LTW_Day08Lab_TH\\LTW_Day08Lab_TH.csproj",
-              "ToolTip": "D:\\ki 5\\LTW\\K64-Ki5-lap-trinh-web-main\\K64-Ki5-lap-trinh-web-main\\LTW_Day08Lab\\LTW_Day08Lab_TH\\LTW_Day08Lab_TH.csproj",
-              "RelativeToolTip": "LTW_Day08Lab_TH\\LTW_Day08Lab_TH.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-10-11T15:36:22.655Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
@@ -60,10 +47,23 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "LTW_Day08Lab_TH.csproj",
+              "DocumentMoniker": "D:\\ki 5\\LTW-UTCCNTT2K64\\LTW_Day08Lab\\LTW_Day08Lab_TH\\LTW_Day08Lab_TH.csproj",
+              "RelativeDocumentMoniker": "LTW_Day08Lab_TH\\LTW_Day08Lab_TH.csproj",
+              "ToolTip": "D:\\ki 5\\LTW-UTCCNTT2K64\\LTW_Day08Lab\\LTW_Day08Lab_TH\\LTW_Day08Lab_TH.csproj",
+              "RelativeToolTip": "LTW_Day08Lab_TH\\LTW_Day08Lab_TH.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-11T15:36:22.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\ki 5\\LTW\\K64-Ki5-lap-trinh-web-main\\K64-Ki5-lap-trinh-web-main\\LTW_Day08Lab\\LTW_Day08Lab_TH\\appsettings.json",
+              "DocumentMoniker": "D:\\ki 5\\LTW-UTCCNTT2K64\\LTW_Day08Lab\\LTW_Day08Lab_TH\\appsettings.json",
               "RelativeDocumentMoniker": "LTW_Day08Lab_TH\\appsettings.json",
-              "ToolTip": "D:\\ki 5\\LTW\\K64-Ki5-lap-trinh-web-main\\K64-Ki5-lap-trinh-web-main\\LTW_Day08Lab\\LTW_Day08Lab_TH\\appsettings.json",
+              "ToolTip": "D:\\ki 5\\LTW-UTCCNTT2K64\\LTW_Day08Lab\\LTW_Day08Lab_TH\\appsettings.json",
               "RelativeToolTip": "LTW_Day08Lab_TH\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -74,35 +74,33 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\ki 5\\LTW\\K64-Ki5-lap-trinh-web-main\\K64-Ki5-lap-trinh-web-main\\LTW_Day08Lab\\LTW_Day08Lab_StudentManager\\appsettings.json",
+              "DocumentMoniker": "D:\\ki 5\\LTW-UTCCNTT2K64\\LTW_Day08Lab\\LTW_Day08Lab_StudentManager\\appsettings.json",
               "RelativeDocumentMoniker": "LTW_Day08Lab_StudentManager\\appsettings.json",
-              "ToolTip": "D:\\ki 5\\LTW\\K64-Ki5-lap-trinh-web-main\\K64-Ki5-lap-trinh-web-main\\LTW_Day08Lab\\LTW_Day08Lab_StudentManager\\appsettings.json",
+              "ToolTip": "D:\\ki 5\\LTW-UTCCNTT2K64\\LTW_Day08Lab\\LTW_Day08Lab_StudentManager\\appsettings.json",
               "RelativeToolTip": "LTW_Day08Lab_StudentManager\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-10-11T15:29:49.221Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-11T15:29:49.221Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Marks.cs",
-              "DocumentMoniker": "D:\\ki 5\\LTW\\K64-Ki5-lap-trinh-web-main\\K64-Ki5-lap-trinh-web-main\\LTW_Day08Lab\\LTW_Day08Lab_StudentManager\\Models\\Marks.cs",
+              "DocumentMoniker": "D:\\ki 5\\LTW-UTCCNTT2K64\\LTW_Day08Lab\\LTW_Day08Lab_StudentManager\\Models\\Marks.cs",
               "RelativeDocumentMoniker": "LTW_Day08Lab_StudentManager\\Models\\Marks.cs",
-              "ToolTip": "D:\\ki 5\\LTW\\K64-Ki5-lap-trinh-web-main\\K64-Ki5-lap-trinh-web-main\\LTW_Day08Lab\\LTW_Day08Lab_StudentManager\\Models\\Marks.cs",
+              "ToolTip": "D:\\ki 5\\LTW-UTCCNTT2K64\\LTW_Day08Lab\\LTW_Day08Lab_StudentManager\\Models\\Marks.cs",
               "RelativeToolTip": "LTW_Day08Lab_StudentManager\\Models\\Marks.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-10T14:59:06.572Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-10T14:59:06.572Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "Subjects.cs",
-              "DocumentMoniker": "D:\\ki 5\\LTW\\K64-Ki5-lap-trinh-web-main\\K64-Ki5-lap-trinh-web-main\\LTW_Day08Lab\\LTW_Day08Lab_StudentManager\\Models\\Subjects.cs",
+              "DocumentMoniker": "D:\\ki 5\\LTW-UTCCNTT2K64\\LTW_Day08Lab\\LTW_Day08Lab_StudentManager\\Models\\Subjects.cs",
               "RelativeDocumentMoniker": "LTW_Day08Lab_StudentManager\\Models\\Subjects.cs",
-              "ToolTip": "D:\\ki 5\\LTW\\K64-Ki5-lap-trinh-web-main\\K64-Ki5-lap-trinh-web-main\\LTW_Day08Lab\\LTW_Day08Lab_StudentManager\\Models\\Subjects.cs",
+              "ToolTip": "D:\\ki 5\\LTW-UTCCNTT2K64\\LTW_Day08Lab\\LTW_Day08Lab_StudentManager\\Models\\Subjects.cs",
               "RelativeToolTip": "LTW_Day08Lab_StudentManager\\Models\\Subjects.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -112,9 +110,9 @@
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "Student.cs",
-              "DocumentMoniker": "D:\\ki 5\\LTW\\K64-Ki5-lap-trinh-web-main\\K64-Ki5-lap-trinh-web-main\\LTW_Day08Lab\\LTW_Day08Lab_StudentManager\\Models\\Student.cs",
+              "DocumentMoniker": "D:\\ki 5\\LTW-UTCCNTT2K64\\LTW_Day08Lab\\LTW_Day08Lab_StudentManager\\Models\\Student.cs",
               "RelativeDocumentMoniker": "LTW_Day08Lab_StudentManager\\Models\\Student.cs",
-              "ToolTip": "D:\\ki 5\\LTW\\K64-Ki5-lap-trinh-web-main\\K64-Ki5-lap-trinh-web-main\\LTW_Day08Lab\\LTW_Day08Lab_StudentManager\\Models\\Student.cs",
+              "ToolTip": "D:\\ki 5\\LTW-UTCCNTT2K64\\LTW_Day08Lab\\LTW_Day08Lab_StudentManager\\Models\\Student.cs",
               "RelativeToolTip": "LTW_Day08Lab_StudentManager\\Models\\Student.cs",
               "ViewState": "AgIAACAAAAAAAAAAAAAIwCwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

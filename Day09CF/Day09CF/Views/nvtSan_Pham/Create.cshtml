@@ -1,61 +1,62 @@
 ﻿@model Day09CF.Models.nvtSan_Pham
 
 @{
-    ViewData["Title"] = "Create";
+    ViewData["Title"] = "Thêm sản phẩm";
 }
 
-<h1>Create</h1>
+<div class="container mt-4">
+    <div class="card shadow-lg">
+        <div class="card-header bg-primary text-white">
+            <h4>🛍️ Thêm sản phẩm mới</h4>
+        </div>
 
-<h4>nvtSan_Pham</h4>
-<hr />
-<div class="row">
-    <div class="col-md-4">
-        <form asp-action="Create">
-            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
-            <div class="form-group">
-                <label asp-for="nvtMaSanPham" class="control-label"></label>
-                <input asp-for="nvtMaSanPham" class="form-control" />
-                <span asp-validation-for="nvtMaSanPham" class="text-danger"></span>
-            </div>
-            <div class="form-group">
-                <label asp-for="nvtTenSanPham" class="control-label"></label>
-                <input asp-for="nvtTenSanPham" class="form-control" />
-                <span asp-validation-for="nvtTenSanPham" class="text-danger"></span>
-            </div>
-            <div class="form-group">
-                <label asp-for="nvtHinhAnh" class="control-label"></label>
-                <input asp-for="nvtHinhAnh" class="form-control" />
-                <span asp-validation-for="nvtHinhAnh" class="text-danger"></span>
-            </div>
-            <div class="form-group">
-                <label asp-for="nvtSoLuong" class="control-label"></label>
-                <input asp-for="nvtSoLuong" class="form-control" />
-                <span asp-validation-for="nvtSoLuong" class="text-danger"></span>
-            </div>
-            <div class="form-group">
-                <label asp-for="nvtDonGia" class="control-label"></label>
-                <input asp-for="nvtDonGia" class="form-control" />
-                <span asp-validation-for="nvtDonGia" class="text-danger"></span>
-            </div>
-            <div class="form-group">
-                <label asp-for="nvtLoaiSanPhamId" class="control-label"></label>
-                <select asp-for="nvtLoaiSanPhamId" class="form-control"
-                        asp-items="ViewBag.nvtLoaiSanPhamId">
-                    <option value="">-- Chọn loại sản phẩm --</option>
-                </select>
-                <span asp-validation-for="nvtLoaiSanPhamId" class="text-danger"></span>
-            </div>
-            <div class="form-group">
-                <input type="submit" value="Create" class="btn btn-primary" />
-            </div>
-        </form>
+        <div class="card-body">
+            <form asp-action="Create" method="post">
+                <div asp-validation-summary="ModelOnly" class="alert alert-danger"></div>
+
+                <div class="row">
+                    <div class="col-md-6">
+                        <label asp-for="nvtMaSanPham" class="form-label"></label>
+                        <input asp-for="nvtMaSanPham" class="form-control" placeholder="Nhập mã sản phẩm" />
+                        <span asp-validation-for="nvtMaSanPham" class="text-danger"></span>
+                    </div>
+
+                    <div class="col-md-6">
+                        <label asp-for="nvtTenSanPham" class="form-label"></label>
+                        <input asp-for="nvtTenSanPham" class="form-control" placeholder="Tên sản phẩm" />
+                        <span asp-validation-for="nvtTenSanPham" class="text-danger"></span>
+                    </div>
+                </div>
+
+                <div class="row mt-3">
+                    <div class="col-md-6">
+                        <label asp-for="nvtHinhAnh" class="form-label"></label>
+                        <input asp-for="nvtHinhAnh" class="form-control" placeholder="Đường dẫn hình ảnh" />
+                    </div>
+
+                    <div class="col-md-3">
+                        <label asp-for="nvtSoLuong" class="form-label"></label>
+                        <input asp-for="nvtSoLuong" type="number" class="form-control" min="0" />
+                    </div>
+
+                    <div class="col-md-3">
+                        <label asp-for="nvtDonGia" class="form-label"></label>
+                        <input asp-for="nvtDonGia" type="number" class="form-control" step="0.01" min="0" />
+                    </div>
+                </div>
+
+                <div class="mt-3">
+                    <label asp-for="nvtLoaiSanPhamId" class="form-label"></label>
+                    <select asp-for="nvtLoaiSanPhamId" class="form-select" asp-items="ViewBag.nvtLoaiSanPhamId">
+                        <option value="">-- Chọn loại sản phẩm --</option>
+                    </select>
+                </div>
+
+                <div class="text-end mt-4">
+                    <input type="submit" value="💾 Lưu" class="btn btn-success" />
+                    <a asp-action="Index" class="btn btn-secondary">⬅️ Quay lại</a>
+                </div>
+            </form>
+        </div>
     </div>
 </div>
-
-<div>
-    <a asp-action="Index">Back to List</a>
-</div>
-
-@section Scripts {
-    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
-}

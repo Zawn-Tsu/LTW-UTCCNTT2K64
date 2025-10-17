@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\ki 5\\lập trình trực quan\\Day09CF\\Day09CF\\Day09CF.csproj": {}
+    "D:\\ki 5\\LTW-UTCCNTT2K64\\Day09CF\\Day09CF\\Day09CF.csproj": {}
   },
   "projects": {
-    "D:\\ki 5\\lập trình trực quan\\Day09CF\\Day09CF\\Day09CF.csproj": {
+    "D:\\ki 5\\LTW-UTCCNTT2K64\\Day09CF\\Day09CF\\Day09CF.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\ki 5\\lập trình trực quan\\Day09CF\\Day09CF\\Day09CF.csproj",
+        "projectUniqueName": "D:\\ki 5\\LTW-UTCCNTT2K64\\Day09CF\\Day09CF\\Day09CF.csproj",
         "projectName": "Day09CF",
-        "projectPath": "D:\\ki 5\\lập trình trực quan\\Day09CF\\Day09CF\\Day09CF.csproj",
+        "projectPath": "D:\\ki 5\\LTW-UTCCNTT2K64\\Day09CF\\Day09CF\\Day09CF.csproj",
         "packagesPath": "C:\\Users\\nguye\\.nuget\\packages\\",
-        "outputPath": "D:\\ki 5\\lập trình trực quan\\Day09CF\\Day09CF\\obj\\",
+        "outputPath": "D:\\ki 5\\LTW-UTCCNTT2K64\\Day09CF\\Day09CF\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

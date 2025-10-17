@@ -29,7 +29,7 @@ namespace Day09CF.Models
 
 
         public long nvtLoaiSanPhamId { get; set; }
-
-        public nvtLoai_SanPham nvtLoai_SanPham { get; set; }
+        [ForeignKey("nvtLoaiSanPhamId")]
+        public nvtLoai_SanPham? nvtLoai_SanPham { get; set; }
     }
 }

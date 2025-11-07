@@ -1,0 +1,202 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ki 5\\Day12Lab_th2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{17D29D2F-D562-4B59-B9C5-D96E21107F6D}|Day12Lab_th2\\Day12Lab_th2.csproj|d:\\ki 5\\day12lab_th2\\day12lab_th2\\views\\shared\\mylayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{17D29D2F-D562-4B59-B9C5-D96E21107F6D}|Day12Lab_th2\\Day12Lab_th2.csproj|solutionrelative:day12lab_th2\\views\\shared\\mylayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17D29D2F-D562-4B59-B9C5-D96E21107F6D}|Day12Lab_th2\\Day12Lab_th2.csproj|d:\\ki 5\\day12lab_th2\\day12lab_th2\\views\\shared\\footer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{17D29D2F-D562-4B59-B9C5-D96E21107F6D}|Day12Lab_th2\\Day12Lab_th2.csproj|solutionrelative:day12lab_th2\\views\\shared\\footer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17D29D2F-D562-4B59-B9C5-D96E21107F6D}|Day12Lab_th2\\Day12Lab_th2.csproj|d:\\ki 5\\day12lab_th2\\day12lab_th2\\views\\shared\\leftmenu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{17D29D2F-D562-4B59-B9C5-D96E21107F6D}|Day12Lab_th2\\Day12Lab_th2.csproj|solutionrelative:day12lab_th2\\views\\shared\\leftmenu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17D29D2F-D562-4B59-B9C5-D96E21107F6D}|Day12Lab_th2\\Day12Lab_th2.csproj|d:\\ki 5\\day12lab_th2\\day12lab_th2\\views\\shared\\topnav.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{17D29D2F-D562-4B59-B9C5-D96E21107F6D}|Day12Lab_th2\\Day12Lab_th2.csproj|solutionrelative:day12lab_th2\\views\\shared\\topnav.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17D29D2F-D562-4B59-B9C5-D96E21107F6D}|Day12Lab_th2\\Day12Lab_th2.csproj|d:\\ki 5\\day12lab_th2\\day12lab_th2\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{17D29D2F-D562-4B59-B9C5-D96E21107F6D}|Day12Lab_th2\\Day12Lab_th2.csproj|solutionrelative:day12lab_th2\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17D29D2F-D562-4B59-B9C5-D96E21107F6D}|Day12Lab_th2\\Day12Lab_th2.csproj|d:\\ki 5\\day12lab_th2\\day12lab_th2\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{17D29D2F-D562-4B59-B9C5-D96E21107F6D}|Day12Lab_th2\\Day12Lab_th2.csproj|solutionrelative:day12lab_th2\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17D29D2F-D562-4B59-B9C5-D96E21107F6D}|Day12Lab_th2\\Day12Lab_th2.csproj|d:\\ki 5\\day12lab_th2\\day12lab_th2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{17D29D2F-D562-4B59-B9C5-D96E21107F6D}|Day12Lab_th2\\Day12Lab_th2.csproj|solutionrelative:day12lab_th2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17D29D2F-D562-4B59-B9C5-D96E21107F6D}|Day12Lab_th2\\Day12Lab_th2.csproj|d:\\ki 5\\day12lab_th2\\day12lab_th2\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{17D29D2F-D562-4B59-B9C5-D96E21107F6D}|Day12Lab_th2\\Day12Lab_th2.csproj|solutionrelative:day12lab_th2\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17D29D2F-D562-4B59-B9C5-D96E21107F6D}|Day12Lab_th2\\Day12Lab_th2.csproj|d:\\ki 5\\day12lab_th2\\day12lab_th2\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{17D29D2F-D562-4B59-B9C5-D96E21107F6D}|Day12Lab_th2\\Day12Lab_th2.csproj|solutionrelative:day12lab_th2\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17D29D2F-D562-4B59-B9C5-D96E21107F6D}|Day12Lab_th2\\Day12Lab_th2.csproj|d:\\ki 5\\day12lab_th2\\day12lab_th2\\wwwroot\\css\\sb-admin-2.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{17D29D2F-D562-4B59-B9C5-D96E21107F6D}|Day12Lab_th2\\Day12Lab_th2.csproj|solutionrelative:day12lab_th2\\wwwroot\\css\\sb-admin-2.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Footer.cshtml",
+              "DocumentMoniker": "D:\\ki 5\\Day12Lab_th2\\Day12Lab_th2\\Views\\Shared\\Footer.cshtml",
+              "RelativeDocumentMoniker": "Day12Lab_th2\\Views\\Shared\\Footer.cshtml",
+              "ToolTip": "D:\\ki 5\\Day12Lab_th2\\Day12Lab_th2\\Views\\Shared\\Footer.cshtml*",
+              "RelativeToolTip": "Day12Lab_th2\\Views\\Shared\\Footer.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-07T04:32:50.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LeftMenu.cshtml",
+              "DocumentMoniker": "D:\\ki 5\\Day12Lab_th2\\Day12Lab_th2\\Views\\Shared\\LeftMenu.cshtml",
+              "RelativeDocumentMoniker": "Day12Lab_th2\\Views\\Shared\\LeftMenu.cshtml",
+              "ToolTip": "D:\\ki 5\\Day12Lab_th2\\Day12Lab_th2\\Views\\Shared\\LeftMenu.cshtml*",
+              "RelativeToolTip": "Day12Lab_th2\\Views\\Shared\\LeftMenu.cshtml*",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAkwB0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-07T04:32:02.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TopNav.cshtml",
+              "DocumentMoniker": "D:\\ki 5\\Day12Lab_th2\\Day12Lab_th2\\Views\\Shared\\TopNav.cshtml",
+              "RelativeDocumentMoniker": "Day12Lab_th2\\Views\\Shared\\TopNav.cshtml",
+              "ToolTip": "D:\\ki 5\\Day12Lab_th2\\Day12Lab_th2\\Views\\Shared\\TopNav.cshtml",
+              "RelativeToolTip": "Day12Lab_th2\\Views\\Shared\\TopNav.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-07T04:16:32.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\ki 5\\Day12Lab_th2\\Day12Lab_th2\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Day12Lab_th2\\Views\\_ViewImports.cshtml",
+              "ToolTip": "D:\\ki 5\\Day12Lab_th2\\Day12Lab_th2\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Day12Lab_th2\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-07T04:10:56.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "D:\\ki 5\\Day12Lab_th2\\Day12Lab_th2\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Day12Lab_th2\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "D:\\ki 5\\Day12Lab_th2\\Day12Lab_th2\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "Day12Lab_th2\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-07T04:10:42.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\ki 5\\Day12Lab_th2\\Day12Lab_th2\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Day12Lab_th2\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\ki 5\\Day12Lab_th2\\Day12Lab_th2\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Day12Lab_th2\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-07T04:10:31.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "sb-admin-2.css",
+              "DocumentMoniker": "D:\\ki 5\\Day12Lab_th2\\Day12Lab_th2\\wwwroot\\css\\sb-admin-2.css",
+              "RelativeDocumentMoniker": "Day12Lab_th2\\wwwroot\\css\\sb-admin-2.css",
+              "ToolTip": "D:\\ki 5\\Day12Lab_th2\\Day12Lab_th2\\wwwroot\\css\\sb-admin-2.css",
+              "RelativeToolTip": "Day12Lab_th2\\wwwroot\\css\\sb-admin-2.css",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-11-07T04:02:44.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\ki 5\\Day12Lab_th2\\Day12Lab_th2\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Day12Lab_th2\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\ki 5\\Day12Lab_th2\\Day12Lab_th2\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Day12Lab_th2\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-07T03:58:34.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Mylayout.cshtml",
+              "DocumentMoniker": "D:\\ki 5\\Day12Lab_th2\\Day12Lab_th2\\Views\\Shared\\Mylayout.cshtml",
+              "RelativeDocumentMoniker": "Day12Lab_th2\\Views\\Shared\\Mylayout.cshtml",
+              "ToolTip": "D:\\ki 5\\Day12Lab_th2\\Day12Lab_th2\\Views\\Shared\\Mylayout.cshtml*",
+              "RelativeToolTip": "Day12Lab_th2\\Views\\Shared\\Mylayout.cshtml*",
+              "ViewState": "AgIAACIAAAAAAAAAAAAAACwAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-07T03:58:28.495Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\ki 5\\Day12Lab_th2\\Day12Lab_th2\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Day12Lab_th2\\Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\ki 5\\Day12Lab_th2\\Day12Lab_th2\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Day12Lab_th2\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-07T04:10:59.094Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -3,52 +3,60 @@
   "WorkspaceRootPath": "D:\\ki 5\\LTW-UTCCNTT2K64\\Day09CF\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3F4A6388-BD1C-4679-8AC4-71BEDA0FB831}|Day09CF\\Day09CF.csproj|d:\\ki 5\\ltw-utccntt2k64\\day09cf\\day09cf\\views\\nvtsan_pham\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3F4A6388-BD1C-4679-8AC4-71BEDA0FB831}|Day09CF\\Day09CF.csproj|solutionrelative:day09cf\\views\\nvtsan_pham\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{3F4A6388-BD1C-4679-8AC4-71BEDA0FB831}|Day09CF\\Day09CF.csproj|d:\\ki 5\\ltw-utccntt2k64\\day09cf\\day09cf\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F4A6388-BD1C-4679-8AC4-71BEDA0FB831}|Day09CF\\Day09CF.csproj|solutionrelative:day09cf\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3F4A6388-BD1C-4679-8AC4-71BEDA0FB831}|Day09CF\\Day09CF.csproj|d:\\ki 5\\ltw-utccntt2k64\\day09cf\\day09cf\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{3F4A6388-BD1C-4679-8AC4-71BEDA0FB831}|Day09CF\\Day09CF.csproj|solutionrelative:day09cf\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3F4A6388-BD1C-4679-8AC4-71BEDA0FB831}|Day09CF\\Day09CF.csproj|d:\\ki 5\\ltw-utccntt2k64\\day09cf\\day09cf\\models\\nvtsan_pham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3F4A6388-BD1C-4679-8AC4-71BEDA0FB831}|Day09CF\\Day09CF.csproj|solutionrelative:day09cf\\models\\nvtsan_pham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3F4A6388-BD1C-4679-8AC4-71BEDA0FB831}|Day09CF\\Day09CF.csproj|d:\\ki 5\\ltw-utccntt2k64\\day09cf\\day09cf\\controllers\\nvtsan_phamcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3F4A6388-BD1C-4679-8AC4-71BEDA0FB831}|Day09CF\\Day09CF.csproj|solutionrelative:day09cf\\controllers\\nvtsan_phamcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\ki 5\\LTW-UTCCNTT2K64\\Day09CF\\Day09CF\\Migrations\\20251017170100_v2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Day09CF\\Migrations\\20251017170100_v2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3F4A6388-BD1C-4679-8AC4-71BEDA0FB831}|Day09CF\\Day09CF.csproj|d:\\ki 5\\ltw-utccntt2k64\\day09cf\\day09cf\\views\\home\\nvtindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3F4A6388-BD1C-4679-8AC4-71BEDA0FB831}|Day09CF\\Day09CF.csproj|solutionrelative:day09cf\\views\\home\\nvtindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3F4A6388-BD1C-4679-8AC4-71BEDA0FB831}|Day09CF\\Day09CF.csproj|d:\\ki 5\\ltw-utccntt2k64\\day09cf\\day09cf\\controllers\\nvtloai_sanphamcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3F4A6388-BD1C-4679-8AC4-71BEDA0FB831}|Day09CF\\Day09CF.csproj|solutionrelative:day09cf\\controllers\\nvtloai_sanphamcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3F4A6388-BD1C-4679-8AC4-71BEDA0FB831}|Day09CF\\Day09CF.csproj|d:\\ki 5\\ltw-utccntt2k64\\day09cf\\day09cf\\views\\nvtloai_sanpham\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3F4A6388-BD1C-4679-8AC4-71BEDA0FB831}|Day09CF\\Day09CF.csproj|solutionrelative:day09cf\\views\\nvtloai_sanpham\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3F4A6388-BD1C-4679-8AC4-71BEDA0FB831}|Day09CF\\Day09CF.csproj|d:\\ki 5\\ltw-utccntt2k64\\day09cf\\day09cf\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3F4A6388-BD1C-4679-8AC4-71BEDA0FB831}|Day09CF\\Day09CF.csproj|solutionrelative:day09cf\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3F4A6388-BD1C-4679-8AC4-71BEDA0FB831}|Day09CF\\Day09CF.csproj|d:\\ki 5\\ltw-utccntt2k64\\day09cf\\day09cf\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{3F4A6388-BD1C-4679-8AC4-71BEDA0FB831}|Day09CF\\Day09CF.csproj|solutionrelative:day09cf\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{3F4A6388-BD1C-4679-8AC4-71BEDA0FB831}|Day09CF\\Day09CF.csproj|d:\\ki 5\\ltw-utccntt2k64\\day09cf\\day09cf\\controllers\\nvthomecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F4A6388-BD1C-4679-8AC4-71BEDA0FB831}|Day09CF\\Day09CF.csproj|solutionrelative:day09cf\\controllers\\nvthomecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3F4A6388-BD1C-4679-8AC4-71BEDA0FB831}|Day09CF\\Day09CF.csproj|d:\\ki 5\\ltw-utccntt2k64\\day09cf\\day09cf\\models\\day09cfcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3F4A6388-BD1C-4679-8AC4-71BEDA0FB831}|Day09CF\\Day09CF.csproj|solutionrelative:day09cf\\models\\day09cfcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{3F4A6388-BD1C-4679-8AC4-71BEDA0FB831}|Day09CF\\Day09CF.csproj|d:\\ki 5\\ltw-utccntt2k64\\day09cf\\day09cf\\models\\nvtsan_pham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F4A6388-BD1C-4679-8AC4-71BEDA0FB831}|Day09CF\\Day09CF.csproj|solutionrelative:day09cf\\models\\nvtsan_pham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F4A6388-BD1C-4679-8AC4-71BEDA0FB831}|Day09CF\\Day09CF.csproj|d:\\ki 5\\ltw-utccntt2k64\\day09cf\\day09cf\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3F4A6388-BD1C-4679-8AC4-71BEDA0FB831}|Day09CF\\Day09CF.csproj|solutionrelative:day09cf\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{3F4A6388-BD1C-4679-8AC4-71BEDA0FB831}|Day09CF\\Day09CF.csproj|d:\\ki 5\\ltw-utccntt2k64\\day09cf\\day09cf\\models\\nvtloai_sanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3F4A6388-BD1C-4679-8AC4-71BEDA0FB831}|Day09CF\\Day09CF.csproj|solutionrelative:day09cf\\models\\nvtloai_sanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{3F4A6388-BD1C-4679-8AC4-71BEDA0FB831}|Day09CF\\Day09CF.csproj|d:\\ki 5\\ltw-utccntt2k64\\day09cf\\day09cf\\views\\nvtsan_pham\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3F4A6388-BD1C-4679-8AC4-71BEDA0FB831}|Day09CF\\Day09CF.csproj|solutionrelative:day09cf\\views\\nvtsan_pham\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F4A6388-BD1C-4679-8AC4-71BEDA0FB831}|Day09CF\\Day09CF.csproj|d:\\ki 5\\ltw-utccntt2k64\\day09cf\\day09cf\\controllers\\nvtsan_phamcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F4A6388-BD1C-4679-8AC4-71BEDA0FB831}|Day09CF\\Day09CF.csproj|solutionrelative:day09cf\\controllers\\nvtsan_phamcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F4A6388-BD1C-4679-8AC4-71BEDA0FB831}|Day09CF\\Day09CF.csproj|d:\\ki 5\\ltw-utccntt2k64\\day09cf\\day09cf\\views\\nvtloai_sanpham\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3F4A6388-BD1C-4679-8AC4-71BEDA0FB831}|Day09CF\\Day09CF.csproj|solutionrelative:day09cf\\views\\nvtloai_sanpham\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{3F4A6388-BD1C-4679-8AC4-71BEDA0FB831}|Day09CF\\Day09CF.csproj|d:\\ki 5\\ltw-utccntt2k64\\day09cf\\day09cf\\migrations\\20251017162428_v1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3F4A6388-BD1C-4679-8AC4-71BEDA0FB831}|Day09CF\\Day09CF.csproj|solutionrelative:day09cf\\migrations\\20251017162428_v1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F4A6388-BD1C-4679-8AC4-71BEDA0FB831}|Day09CF\\Day09CF.csproj|d:\\ki 5\\ltw-utccntt2k64\\day09cf\\day09cf\\migrations\\20251017170100_v2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F4A6388-BD1C-4679-8AC4-71BEDA0FB831}|Day09CF\\Day09CF.csproj|solutionrelative:day09cf\\migrations\\20251017170100_v2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -58,7 +66,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -74,33 +82,97 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NvtHomeController.cs",
+              "DocumentMoniker": "D:\\ki 5\\LTW-UTCCNTT2K64\\Day09CF\\Day09CF\\Controllers\\NvtHomeController.cs",
+              "RelativeDocumentMoniker": "Day09CF\\Controllers\\NvtHomeController.cs",
+              "ToolTip": "D:\\ki 5\\LTW-UTCCNTT2K64\\Day09CF\\Day09CF\\Controllers\\NvtHomeController.cs",
+              "RelativeToolTip": "Day09CF\\Controllers\\NvtHomeController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA/wBEAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T02:32:33.734Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\ki 5\\LTW-UTCCNTT2K64\\Day09CF\\Day09CF\\appsettings.json",
+              "RelativeDocumentMoniker": "Day09CF\\appsettings.json",
+              "ToolTip": "D:\\ki 5\\LTW-UTCCNTT2K64\\Day09CF\\Day09CF\\appsettings.json",
+              "RelativeToolTip": "Day09CF\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAACKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-17T16:16:01.014Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ki 5\\LTW-UTCCNTT2K64\\Day09CF\\Day09CF\\Program.cs",
+              "RelativeDocumentMoniker": "Day09CF\\Program.cs",
+              "ToolTip": "D:\\ki 5\\LTW-UTCCNTT2K64\\Day09CF\\Day09CF\\Program.cs",
+              "RelativeToolTip": "Day09CF\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABoAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T16:15:45.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Day09CFContext.cs",
+              "DocumentMoniker": "D:\\ki 5\\LTW-UTCCNTT2K64\\Day09CF\\Day09CF\\Models\\Day09CFContext.cs",
+              "RelativeDocumentMoniker": "Day09CF\\Models\\Day09CFContext.cs",
+              "ToolTip": "D:\\ki 5\\LTW-UTCCNTT2K64\\Day09CF\\Day09CF\\Models\\Day09CFContext.cs",
+              "RelativeToolTip": "Day09CF\\Models\\Day09CFContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T16:12:30.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "nvtLoai_SanPhamController.cs",
+              "DocumentMoniker": "D:\\ki 5\\LTW-UTCCNTT2K64\\Day09CF\\Day09CF\\Controllers\\nvtLoai_SanPhamController.cs",
+              "RelativeDocumentMoniker": "Day09CF\\Controllers\\nvtLoai_SanPhamController.cs",
+              "ToolTip": "D:\\ki 5\\LTW-UTCCNTT2K64\\Day09CF\\Day09CF\\Controllers\\nvtLoai_SanPhamController.cs",
+              "RelativeToolTip": "Day09CF\\Controllers\\nvtLoai_SanPhamController.cs",
+              "ViewState": "AgIAAJIAAAAAAAAAAAAwwJoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T16:27:17.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NvtIndex.cshtml",
+              "DocumentMoniker": "D:\\ki 5\\LTW-UTCCNTT2K64\\Day09CF\\Day09CF\\Views\\Home\\NvtIndex.cshtml",
+              "RelativeDocumentMoniker": "Day09CF\\Views\\Home\\NvtIndex.cshtml",
+              "ToolTip": "D:\\ki 5\\LTW-UTCCNTT2K64\\Day09CF\\Day09CF\\Views\\Home\\NvtIndex.cshtml",
+              "RelativeToolTip": "Day09CF\\Views\\Home\\NvtIndex.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-24T02:33:25.486Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "D:\\ki 5\\LTW-UTCCNTT2K64\\Day09CF\\Day09CF\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Day09CF\\Views\\Shared\\_Layout.cshtml",
               "ToolTip": "D:\\ki 5\\LTW-UTCCNTT2K64\\Day09CF\\Day09CF\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "Day09CF\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAADwvxkAAABrAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-10-17T17:47:10.434Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "D:\\ki 5\\LTW-UTCCNTT2K64\\Day09CF\\Day09CF\\Views\\nvtSan_Pham\\Create.cshtml",
-              "RelativeDocumentMoniker": "Day09CF\\Views\\nvtSan_Pham\\Create.cshtml",
-              "ToolTip": "D:\\ki 5\\LTW-UTCCNTT2K64\\Day09CF\\Day09CF\\Views\\nvtSan_Pham\\Create.cshtml",
-              "RelativeToolTip": "Day09CF\\Views\\nvtSan_Pham\\Create.cshtml",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAcwD4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-17T16:48:56.126Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "20251017162428_v1.cs",
               "DocumentMoniker": "D:\\ki 5\\LTW-UTCCNTT2K64\\Day09CF\\Day09CF\\Migrations\\20251017162428_v1.cs",
               "RelativeDocumentMoniker": "Day09CF\\Migrations\\20251017162428_v1.cs",
@@ -112,56 +184,43 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\ki 5\\LTW-UTCCNTT2K64\\Day09CF\\Day09CF\\appsettings.json",
-              "RelativeDocumentMoniker": "Day09CF\\appsettings.json",
-              "ToolTip": "D:\\ki 5\\LTW-UTCCNTT2K64\\Day09CF\\Day09CF\\appsettings.json",
-              "RelativeToolTip": "Day09CF\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-10-17T16:16:01.014Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\ki 5\\LTW-UTCCNTT2K64\\Day09CF\\Day09CF\\Program.cs",
-              "RelativeDocumentMoniker": "Day09CF\\Program.cs",
-              "ToolTip": "D:\\ki 5\\LTW-UTCCNTT2K64\\Day09CF\\Day09CF\\Program.cs",
-              "RelativeToolTip": "Day09CF\\Program.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAADwvxMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-17T16:15:45.077Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 9,
-              "Title": "Day09CFContext.cs",
-              "DocumentMoniker": "D:\\ki 5\\LTW-UTCCNTT2K64\\Day09CF\\Day09CF\\Models\\Day09CFContext.cs",
-              "RelativeDocumentMoniker": "Day09CF\\Models\\Day09CFContext.cs",
-              "ToolTip": "D:\\ki 5\\LTW-UTCCNTT2K64\\Day09CF\\Day09CF\\Models\\Day09CFContext.cs",
-              "RelativeToolTip": "Day09CF\\Models\\Day09CFContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-17T16:12:30.322Z"
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\ki 5\\LTW-UTCCNTT2K64\\Day09CF\\Day09CF\\Views\\nvtSan_Pham\\Create.cshtml",
+              "RelativeDocumentMoniker": "Day09CF\\Views\\nvtSan_Pham\\Create.cshtml",
+              "ToolTip": "D:\\ki 5\\LTW-UTCCNTT2K64\\Day09CF\\Day09CF\\Views\\nvtSan_Pham\\Create.cshtml",
+              "RelativeToolTip": "Day09CF\\Views\\nvtSan_Pham\\Create.cshtml",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAADgAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-17T16:48:56.126Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "nvtSan_Pham.cs",
               "DocumentMoniker": "D:\\ki 5\\LTW-UTCCNTT2K64\\Day09CF\\Day09CF\\Models\\nvtSan_Pham.cs",
               "RelativeDocumentMoniker": "Day09CF\\Models\\nvtSan_Pham.cs",
               "ToolTip": "D:\\ki 5\\LTW-UTCCNTT2K64\\Day09CF\\Day09CF\\Models\\nvtSan_Pham.cs",
               "RelativeToolTip": "Day09CF\\Models\\nvtSan_Pham.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAIwCMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-17T16:06:35.311Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-17T16:06:35.311Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 8,
+              "Title": "nvtLoai_SanPham.cs",
+              "DocumentMoniker": "D:\\ki 5\\LTW-UTCCNTT2K64\\Day09CF\\Day09CF\\Models\\nvtLoai_SanPham.cs",
+              "RelativeDocumentMoniker": "Day09CF\\Models\\nvtLoai_SanPham.cs",
+              "ToolTip": "D:\\ki 5\\LTW-UTCCNTT2K64\\Day09CF\\Day09CF\\Models\\nvtLoai_SanPham.cs",
+              "RelativeToolTip": "Day09CF\\Models\\nvtLoai_SanPham.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAYwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T16:04:03.369Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "nvtSan_PhamController.cs",
               "DocumentMoniker": "D:\\ki 5\\LTW-UTCCNTT2K64\\Day09CF\\Day09CF\\Controllers\\nvtSan_PhamController.cs",
               "RelativeDocumentMoniker": "Day09CF\\Controllers\\nvtSan_PhamController.cs",
@@ -169,12 +228,11 @@
               "RelativeToolTip": "Day09CF\\Controllers\\nvtSan_PhamController.cs",
               "ViewState": "AgIAAHQAAAAAAAAAAAAUwFkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-17T16:28:31.988Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-17T16:28:31.988Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 13,
               "Title": "20251017170100_v2.cs",
               "DocumentMoniker": "D:\\ki 5\\LTW-UTCCNTT2K64\\Day09CF\\Day09CF\\Migrations\\20251017170100_v2.cs",
               "RelativeDocumentMoniker": "Day09CF\\Migrations\\20251017170100_v2.cs",
@@ -182,44 +240,19 @@
               "RelativeToolTip": "Day09CF\\Migrations\\20251017170100_v2.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-17T17:01:01.285Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-17T17:01:01.285Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "nvtLoai_SanPhamController.cs",
-              "DocumentMoniker": "D:\\ki 5\\LTW-UTCCNTT2K64\\Day09CF\\Day09CF\\Controllers\\nvtLoai_SanPhamController.cs",
-              "RelativeDocumentMoniker": "Day09CF\\Controllers\\nvtLoai_SanPhamController.cs",
-              "ToolTip": "D:\\ki 5\\LTW-UTCCNTT2K64\\Day09CF\\Day09CF\\Controllers\\nvtLoai_SanPhamController.cs",
-              "RelativeToolTip": "Day09CF\\Controllers\\nvtLoai_SanPhamController.cs",
-              "ViewState": "AgIAAJIAAAAAAAAAAAAwwJoAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-17T16:27:17.927Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 11,
               "Title": "Create.cshtml",
               "DocumentMoniker": "D:\\ki 5\\LTW-UTCCNTT2K64\\Day09CF\\Day09CF\\Views\\nvtLoai_SanPham\\Create.cshtml",
               "RelativeDocumentMoniker": "Day09CF\\Views\\nvtLoai_SanPham\\Create.cshtml",
               "ToolTip": "D:\\ki 5\\LTW-UTCCNTT2K64\\Day09CF\\Day09CF\\Views\\nvtLoai_SanPham\\Create.cshtml",
               "RelativeToolTip": "Day09CF\\Views\\nvtLoai_SanPham\\Create.cshtml",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAkAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAIBJwA4AAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-10-17T16:27:44.825Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "nvtLoai_SanPham.cs",
-              "DocumentMoniker": "D:\\ki 5\\LTW-UTCCNTT2K64\\Day09CF\\Day09CF\\Models\\nvtLoai_SanPham.cs",
-              "RelativeDocumentMoniker": "Day09CF\\Models\\nvtLoai_SanPham.cs",
-              "ToolTip": "D:\\ki 5\\LTW-UTCCNTT2K64\\Day09CF\\Day09CF\\Models\\nvtLoai_SanPham.cs",
-              "RelativeToolTip": "Day09CF\\Models\\nvtLoai_SanPham.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-17T16:04:03.369Z"
             }
           ]
         }

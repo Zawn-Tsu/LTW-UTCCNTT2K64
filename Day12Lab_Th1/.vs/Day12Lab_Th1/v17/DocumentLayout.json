@@ -1,33 +1,37 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\ki 5\\Day12Lab_Th1\\",
+  "WorkspaceRootPath": "D:\\ki 5\\LTW-UTCCNTT2K64\\Day12Lab_Th1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{89993C34-B42F-4875-9570-33274B8AFC39}|Day12Lab_Th1\\Day12Lab_Th1.csproj|d:\\ki 5\\day12lab_th1\\day12lab_th1\\views\\student\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{89993C34-B42F-4875-9570-33274B8AFC39}|Day12Lab_Th1\\Day12Lab_Th1.csproj|solutionrelative:day12lab_th1\\views\\student\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{89993C34-B42F-4875-9570-33274B8AFC39}|Day12Lab_Th1\\Day12Lab_Th1.csproj|d:\\ki 5\\day12lab_th1\\day12lab_th1\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{89993C34-B42F-4875-9570-33274B8AFC39}|Day12Lab_Th1\\Day12Lab_Th1.csproj|solutionrelative:day12lab_th1\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{89993C34-B42F-4875-9570-33274B8AFC39}|Day12Lab_Th1\\Day12Lab_Th1.csproj|d:\\ki 5\\day12lab_th1\\day12lab_th1\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{89993C34-B42F-4875-9570-33274B8AFC39}|Day12Lab_Th1\\Day12Lab_Th1.csproj|solutionrelative:day12lab_th1\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{89993C34-B42F-4875-9570-33274B8AFC39}|Day12Lab_Th1\\Day12Lab_Th1.csproj|d:\\ki 5\\day12lab_th1\\day12lab_th1\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{89993C34-B42F-4875-9570-33274B8AFC39}|Day12Lab_Th1\\Day12Lab_Th1.csproj|d:\\ki 5\\ltw-utccntt2k64\\day12lab_th1\\day12lab_th1\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{89993C34-B42F-4875-9570-33274B8AFC39}|Day12Lab_Th1\\Day12Lab_Th1.csproj|solutionrelative:day12lab_th1\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{89993C34-B42F-4875-9570-33274B8AFC39}|Day12Lab_Th1\\Day12Lab_Th1.csproj|d:\\ki 5\\day12lab_th1\\day12lab_th1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{89993C34-B42F-4875-9570-33274B8AFC39}|Day12Lab_Th1\\Day12Lab_Th1.csproj|d:\\ki 5\\ltw-utccntt2k64\\day12lab_th1\\day12lab_th1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89993C34-B42F-4875-9570-33274B8AFC39}|Day12Lab_Th1\\Day12Lab_Th1.csproj|solutionrelative:day12lab_th1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89993C34-B42F-4875-9570-33274B8AFC39}|Day12Lab_Th1\\Day12Lab_Th1.csproj|d:\\ki 5\\ltw-utccntt2k64\\day12lab_th1\\day12lab_th1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{89993C34-B42F-4875-9570-33274B8AFC39}|Day12Lab_Th1\\Day12Lab_Th1.csproj|solutionrelative:day12lab_th1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{89993C34-B42F-4875-9570-33274B8AFC39}|Day12Lab_Th1\\Day12Lab_Th1.csproj|d:\\ki 5\\day12lab_th1\\day12lab_th1\\models\\branch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{89993C34-B42F-4875-9570-33274B8AFC39}|Day12Lab_Th1\\Day12Lab_Th1.csproj|d:\\ki 5\\ltw-utccntt2k64\\day12lab_th1\\day12lab_th1\\views\\student\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{89993C34-B42F-4875-9570-33274B8AFC39}|Day12Lab_Th1\\Day12Lab_Th1.csproj|solutionrelative:day12lab_th1\\views\\student\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89993C34-B42F-4875-9570-33274B8AFC39}|Day12Lab_Th1\\Day12Lab_Th1.csproj|d:\\ki 5\\ltw-utccntt2k64\\day12lab_th1\\day12lab_th1\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{89993C34-B42F-4875-9570-33274B8AFC39}|Day12Lab_Th1\\Day12Lab_Th1.csproj|solutionrelative:day12lab_th1\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89993C34-B42F-4875-9570-33274B8AFC39}|Day12Lab_Th1\\Day12Lab_Th1.csproj|d:\\ki 5\\ltw-utccntt2k64\\day12lab_th1\\day12lab_th1\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89993C34-B42F-4875-9570-33274B8AFC39}|Day12Lab_Th1\\Day12Lab_Th1.csproj|solutionrelative:day12lab_th1\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89993C34-B42F-4875-9570-33274B8AFC39}|Day12Lab_Th1\\Day12Lab_Th1.csproj|d:\\ki 5\\ltw-utccntt2k64\\day12lab_th1\\day12lab_th1\\models\\branch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{89993C34-B42F-4875-9570-33274B8AFC39}|Day12Lab_Th1\\Day12Lab_Th1.csproj|solutionrelative:day12lab_th1\\models\\branch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{89993C34-B42F-4875-9570-33274B8AFC39}|Day12Lab_Th1\\Day12Lab_Th1.csproj|d:\\ki 5\\day12lab_th1\\day12lab_th1\\models\\gender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{89993C34-B42F-4875-9570-33274B8AFC39}|Day12Lab_Th1\\Day12Lab_Th1.csproj|d:\\ki 5\\ltw-utccntt2k64\\day12lab_th1\\day12lab_th1\\models\\gender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{89993C34-B42F-4875-9570-33274B8AFC39}|Day12Lab_Th1\\Day12Lab_Th1.csproj|solutionrelative:day12lab_th1\\models\\gender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -38,7 +42,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -54,94 +58,101 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "D:\\ki 5\\Day12Lab_Th1\\Day12Lab_Th1\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "Day12Lab_Th1\\Controllers\\HomeController.cs",
-              "ToolTip": "D:\\ki 5\\Day12Lab_Th1\\Day12Lab_Th1\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "Day12Lab_Th1\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-07T03:23:43.068Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "D:\\ki 5\\Day12Lab_Th1\\Day12Lab_Th1\\Views\\Student\\Create.cshtml",
-              "RelativeDocumentMoniker": "Day12Lab_Th1\\Views\\Student\\Create.cshtml",
-              "ToolTip": "D:\\ki 5\\Day12Lab_Th1\\Day12Lab_Th1\\Views\\Student\\Create.cshtml",
-              "RelativeToolTip": "Day12Lab_Th1\\Views\\Student\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-07T03:20:13.259Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\ki 5\\Day12Lab_Th1\\Day12Lab_Th1\\Views\\Student\\Index.cshtml",
-              "RelativeDocumentMoniker": "Day12Lab_Th1\\Views\\Student\\Index.cshtml",
-              "ToolTip": "D:\\ki 5\\Day12Lab_Th1\\Day12Lab_Th1\\Views\\Student\\Index.cshtml",
-              "RelativeToolTip": "Day12Lab_Th1\\Views\\Student\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-07T03:05:08.821Z",
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ki 5\\LTW-UTCCNTT2K64\\Day12Lab_Th1\\Day12Lab_Th1\\Program.cs",
+              "RelativeDocumentMoniker": "Day12Lab_Th1\\Program.cs",
+              "ToolTip": "D:\\ki 5\\LTW-UTCCNTT2K64\\Day12Lab_Th1\\Day12Lab_Th1\\Program.cs",
+              "RelativeToolTip": "Day12Lab_Th1\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAYwBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T03:41:46.335Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "StudentController.cs",
-              "DocumentMoniker": "D:\\ki 5\\Day12Lab_Th1\\Day12Lab_Th1\\Controllers\\StudentController.cs",
-              "RelativeDocumentMoniker": "Day12Lab_Th1\\Controllers\\StudentController.cs",
-              "ToolTip": "D:\\ki 5\\Day12Lab_Th1\\Day12Lab_Th1\\Controllers\\StudentController.cs",
-              "RelativeToolTip": "Day12Lab_Th1\\Controllers\\StudentController.cs",
-              "ViewState": "AgIAAEsAAAAAAAAAAAAowFgAAAAAAAAAAAAAAA==",
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\ki 5\\LTW-UTCCNTT2K64\\Day12Lab_Th1\\Day12Lab_Th1\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Day12Lab_Th1\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\ki 5\\LTW-UTCCNTT2K64\\Day12Lab_Th1\\Day12Lab_Th1\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Day12Lab_Th1\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-07T02:57:05.123Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-07T03:23:43.068Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\ki 5\\LTW-UTCCNTT2K64\\Day12Lab_Th1\\Day12Lab_Th1\\Views\\Student\\Create.cshtml",
+              "RelativeDocumentMoniker": "Day12Lab_Th1\\Views\\Student\\Create.cshtml",
+              "ToolTip": "D:\\ki 5\\LTW-UTCCNTT2K64\\Day12Lab_Th1\\Day12Lab_Th1\\Views\\Student\\Create.cshtml",
+              "RelativeToolTip": "Day12Lab_Th1\\Views\\Student\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-07T03:20:13.259Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\ki 5\\LTW-UTCCNTT2K64\\Day12Lab_Th1\\Day12Lab_Th1\\Views\\Student\\Index.cshtml",
+              "RelativeDocumentMoniker": "Day12Lab_Th1\\Views\\Student\\Index.cshtml",
+              "ToolTip": "D:\\ki 5\\LTW-UTCCNTT2K64\\Day12Lab_Th1\\Day12Lab_Th1\\Views\\Student\\Index.cshtml",
+              "RelativeToolTip": "Day12Lab_Th1\\Views\\Student\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-07T03:05:08.821Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "D:\\ki 5\\LTW-UTCCNTT2K64\\Day12Lab_Th1\\Day12Lab_Th1\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "Day12Lab_Th1\\Controllers\\StudentController.cs",
+              "ToolTip": "D:\\ki 5\\LTW-UTCCNTT2K64\\Day12Lab_Th1\\Day12Lab_Th1\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "Day12Lab_Th1\\Controllers\\StudentController.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAowFgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T02:57:05.123Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "Student.cs",
-              "DocumentMoniker": "D:\\ki 5\\Day12Lab_Th1\\Day12Lab_Th1\\Models\\Student.cs",
+              "DocumentMoniker": "D:\\ki 5\\LTW-UTCCNTT2K64\\Day12Lab_Th1\\Day12Lab_Th1\\Models\\Student.cs",
               "RelativeDocumentMoniker": "Day12Lab_Th1\\Models\\Student.cs",
-              "ToolTip": "D:\\ki 5\\Day12Lab_Th1\\Day12Lab_Th1\\Models\\Student.cs",
+              "ToolTip": "D:\\ki 5\\LTW-UTCCNTT2K64\\Day12Lab_Th1\\Day12Lab_Th1\\Models\\Student.cs",
               "RelativeToolTip": "Day12Lab_Th1\\Models\\Student.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAzwA0AAAAzAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAUwBcAAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-07T02:54:34.156Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Branch.cs",
-              "DocumentMoniker": "D:\\ki 5\\Day12Lab_Th1\\Day12Lab_Th1\\Models\\Branch.cs",
+              "DocumentMoniker": "D:\\ki 5\\LTW-UTCCNTT2K64\\Day12Lab_Th1\\Day12Lab_Th1\\Models\\Branch.cs",
               "RelativeDocumentMoniker": "Day12Lab_Th1\\Models\\Branch.cs",
-              "ToolTip": "D:\\ki 5\\Day12Lab_Th1\\Day12Lab_Th1\\Models\\Branch.cs",
+              "ToolTip": "D:\\ki 5\\LTW-UTCCNTT2K64\\Day12Lab_Th1\\Day12Lab_Th1\\Models\\Branch.cs",
               "RelativeToolTip": "Day12Lab_Th1\\Models\\Branch.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-07T02:53:59.434Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-07T02:53:59.434Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Gender.cs",
-              "DocumentMoniker": "D:\\ki 5\\Day12Lab_Th1\\Day12Lab_Th1\\Models\\Gender.cs",
+              "DocumentMoniker": "D:\\ki 5\\LTW-UTCCNTT2K64\\Day12Lab_Th1\\Day12Lab_Th1\\Models\\Gender.cs",
               "RelativeDocumentMoniker": "Day12Lab_Th1\\Models\\Gender.cs",
-              "ToolTip": "D:\\ki 5\\Day12Lab_Th1\\Day12Lab_Th1\\Models\\Gender.cs",
+              "ToolTip": "D:\\ki 5\\LTW-UTCCNTT2K64\\Day12Lab_Th1\\Day12Lab_Th1\\Models\\Gender.cs",
               "RelativeToolTip": "Day12Lab_Th1\\Models\\Gender.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-07T02:53:03.268Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-07T02:53:03.268Z"
             }
           ]
         }
